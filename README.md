@@ -1,2 +1,1 @@
-# poem-web
-this poem with be on the world wide web
+Web này để viết về niềm đam mê của mình đối với visualization.
